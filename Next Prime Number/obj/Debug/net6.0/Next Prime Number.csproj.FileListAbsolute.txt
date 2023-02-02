@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Next Prime Number\bin\Debug\net6.0\Next Prime Number.exe
+E:\Capita\Week 1\Next Prime Number\bin\Debug\net6.0\Next Prime Number.deps.json
+E:\Capita\Week 1\Next Prime Number\bin\Debug\net6.0\Next Prime Number.runtimeconfig.json
+E:\Capita\Week 1\Next Prime Number\bin\Debug\net6.0\Next Prime Number.dll
+E:\Capita\Week 1\Next Prime Number\bin\Debug\net6.0\Next Prime Number.pdb
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.AssemblyInfo.cs
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.dll
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\refint\Next Prime Number.dll
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.pdb
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\Next Prime Number.genruntimeconfig.cache
+E:\Capita\Week 1\Next Prime Number\obj\Debug\net6.0\ref\Next Prime Number.dll

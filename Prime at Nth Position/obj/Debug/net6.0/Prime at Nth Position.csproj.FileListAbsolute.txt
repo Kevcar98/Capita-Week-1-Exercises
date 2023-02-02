@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Prime at Nth Position\bin\Debug\net6.0\Prime at Nth Position.exe
+E:\Capita\Week 1\Prime at Nth Position\bin\Debug\net6.0\Prime at Nth Position.deps.json
+E:\Capita\Week 1\Prime at Nth Position\bin\Debug\net6.0\Prime at Nth Position.runtimeconfig.json
+E:\Capita\Week 1\Prime at Nth Position\bin\Debug\net6.0\Prime at Nth Position.dll
+E:\Capita\Week 1\Prime at Nth Position\bin\Debug\net6.0\Prime at Nth Position.pdb
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.AssemblyInfo.cs
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.dll
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\refint\Prime at Nth Position.dll
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.pdb
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\Prime at Nth Position.genruntimeconfig.cache
+E:\Capita\Week 1\Prime at Nth Position\obj\Debug\net6.0\ref\Prime at Nth Position.dll

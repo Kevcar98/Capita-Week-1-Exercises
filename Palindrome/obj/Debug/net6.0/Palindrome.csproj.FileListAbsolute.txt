@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Palindrome\bin\Debug\net6.0\Palindrome.exe
+E:\Capita\Week 1\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+E:\Capita\Week 1\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+E:\Capita\Week 1\Palindrome\bin\Debug\net6.0\Palindrome.dll
+E:\Capita\Week 1\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.dll
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+E:\Capita\Week 1\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
