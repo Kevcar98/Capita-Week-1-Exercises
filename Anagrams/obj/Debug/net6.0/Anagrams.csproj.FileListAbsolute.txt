@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.AssemblyInfo.cs
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Anagrams\bin\Debug\net6.0\Anagrams.exe
+E:\Capita\Week 1\Anagrams\bin\Debug\net6.0\Anagrams.deps.json
+E:\Capita\Week 1\Anagrams\bin\Debug\net6.0\Anagrams.runtimeconfig.json
+E:\Capita\Week 1\Anagrams\bin\Debug\net6.0\Anagrams.dll
+E:\Capita\Week 1\Anagrams\bin\Debug\net6.0\Anagrams.pdb
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.dll
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\refint\Anagrams.dll
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.pdb
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\Anagrams.genruntimeconfig.cache
+E:\Capita\Week 1\Anagrams\obj\Debug\net6.0\ref\Anagrams.dll

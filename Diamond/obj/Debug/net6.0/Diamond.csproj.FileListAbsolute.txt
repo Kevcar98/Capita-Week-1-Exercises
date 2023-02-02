@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Diamond\bin\Debug\net6.0\Diamond.exe
+E:\Capita\Week 1\Diamond\bin\Debug\net6.0\Diamond.deps.json
+E:\Capita\Week 1\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+E:\Capita\Week 1\Diamond\bin\Debug\net6.0\Diamond.dll
+E:\Capita\Week 1\Diamond\bin\Debug\net6.0\Diamond.pdb
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.dll
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.pdb
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+E:\Capita\Week 1\Diamond\obj\Debug\net6.0\ref\Diamond.dll
