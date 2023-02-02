@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Stars on Screen\bin\Debug\net6.0\Stars on Screen.exe
+E:\Capita\Week 1\Stars on Screen\bin\Debug\net6.0\Stars on Screen.deps.json
+E:\Capita\Week 1\Stars on Screen\bin\Debug\net6.0\Stars on Screen.runtimeconfig.json
+E:\Capita\Week 1\Stars on Screen\bin\Debug\net6.0\Stars on Screen.dll
+E:\Capita\Week 1\Stars on Screen\bin\Debug\net6.0\Stars on Screen.pdb
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.AssemblyInfo.cs
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.dll
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\refint\Stars on Screen.dll
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.pdb
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\Stars on Screen.genruntimeconfig.cache
+E:\Capita\Week 1\Stars on Screen\obj\Debug\net6.0\ref\Stars on Screen.dll
