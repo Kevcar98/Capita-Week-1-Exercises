@@ -1,0 +1,15 @@
+E:\Capita\Week 1\TwoSums\bin\Debug\net6.0\TwoSums.exe
+E:\Capita\Week 1\TwoSums\bin\Debug\net6.0\TwoSums.deps.json
+E:\Capita\Week 1\TwoSums\bin\Debug\net6.0\TwoSums.runtimeconfig.json
+E:\Capita\Week 1\TwoSums\bin\Debug\net6.0\TwoSums.dll
+E:\Capita\Week 1\TwoSums\bin\Debug\net6.0\TwoSums.pdb
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.csproj.AssemblyReference.cache
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.AssemblyInfoInputs.cache
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.AssemblyInfo.cs
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.dll
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\refint\TwoSums.dll
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.pdb
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\TwoSums.genruntimeconfig.cache
+E:\Capita\Week 1\TwoSums\obj\Debug\net6.0\ref\TwoSums.dll

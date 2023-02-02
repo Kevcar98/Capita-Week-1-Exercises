@@ -1,0 +1,15 @@
+E:\Capita\Week 1\Sum of digits\bin\Debug\net6.0\Sum of digits.exe
+E:\Capita\Week 1\Sum of digits\bin\Debug\net6.0\Sum of digits.deps.json
+E:\Capita\Week 1\Sum of digits\bin\Debug\net6.0\Sum of digits.runtimeconfig.json
+E:\Capita\Week 1\Sum of digits\bin\Debug\net6.0\Sum of digits.dll
+E:\Capita\Week 1\Sum of digits\bin\Debug\net6.0\Sum of digits.pdb
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.csproj.AssemblyReference.cache
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.AssemblyInfoInputs.cache
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.AssemblyInfo.cs
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.csproj.CoreCompileInputs.cache
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.dll
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\refint\Sum of digits.dll
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.pdb
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\Sum of digits.genruntimeconfig.cache
+E:\Capita\Week 1\Sum of digits\obj\Debug\net6.0\ref\Sum of digits.dll
